@@ -55,12 +55,14 @@ const projects = [
     id: 7,
     title: "PolePositionPlus: Plataforma de Entretenimento F1",
     description: "Site de entretenimento relacionado à Fórmula 1, onde jogadores podem apostar moedas fictícias em pilotos. Utiliza web scrapers em Python para coletar informações atualizadas, além de modelagem 3D com Three.js para criar uma interface interativa e imersiva",
+    image: "/ppp.png",
     tech: ["Python", " Web Scraping", "Three.js", "3D Modeling"]
   },
   {
     id: 8,
     title: "Dungeon Escape: Jogo 2D RPG Imersivo ",
     description: "Jogo 2D RPG, desenvolvido inteiramente em JavaScript e HTML Canvas. Inspirado em Dungeons & Dragons, o jogo oferece uma experiência imersiva com trilha sonora, inúmeros personagens e muita diversão",
+    image: "/dungeon.png",
     tech: ["JavaScript", "HTML Canvas", "Design de Jogos"]
   },
   {
