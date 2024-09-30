@@ -67,6 +67,7 @@ const projects = [
     id: 9,
     title: "Jogo da Forca: Primeiro Grande Projeto em C",
     description: "Desenvolvi este jogo da forca em C como meu primeiro grande projeto de programação em 2019, para a disciplina de computação na UTFPR. Foi uma experiência desafiadora e gratificante, com mais de 1000 linhas de código",
+    image: "/hang.jpg",
     tech: ["C", "Programação Estrutural", "Design de Jogos"]
   }
 ]
