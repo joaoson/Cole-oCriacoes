@@ -2,6 +2,12 @@
 import { useState, useEffect, useRef } from 'react'
 import { motion, AnimatePresence, useAnimation, useInView } from 'framer-motion'
 
+declare global {
+  interface Window {
+    confetti: any; // ou use o tipo correto se souber qual é
+  }
+}
+
 const projects = [
   {
     id: 1,
